@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Working_Days,Present_Days,Absent_Days,Leave_Days
+SMP001,John Doe,Engineering,22,21,1,0
+SMP002,Jane Smith,Marketing,22,19,2,1
+SMP003,Robert Johnson,Finance,22,16,4,2
+SMP004,Emily Davis,Human Resources,22,22,0,0
+SMP005,Michael Brown,Operations,22,18,3,1
+SMP006,Jessica Taylor,Engineering,22,15,5,2
+SMP007,David Wilson,Sales,22,20,1,1
+SMP008,Sarah Miller,Marketing,22,21,0,1
+SMP009,James Anderson,Finance,22,17,3,2
+SMP010,Amanda Thomas,Sales,22,14,6,2

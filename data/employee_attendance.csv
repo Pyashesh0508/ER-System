@@ -1,0 +1,26 @@
+Employee_ID,Name,Department,Working_Days,Present_Days,Absent_Days,Leave_Days
+EMP001,Aarav Sharma,Engineering,25,24,1,0
+EMP002,Aditi Rao,Human Resources,25,23,0,2
+EMP003,Rohan Mehta,Finance,25,21,2,2
+EMP004,Sneha Patel,Marketing,25,18,5,2
+EMP005,Vikram Singh,Sales,25,25,0,0
+EMP006,Priya Nair,Engineering,25,17,6,2
+EMP007,Ananya Iyer,Operations,25,22,1,2
+EMP008,Karan Verma,Sales,25,19,4,2
+EMP009,Neha Gupta,Marketing,25,24,0,1
+EMP010,Rahul Joshi,Finance,25,16,6,3
+EMP011,Pooja Hegde,Human Resources,25,22,1,2
+EMP012,Arjun Reddy,Engineering,25,25,0,0
+EMP013,Divya Menon,Operations,25,20,3,2
+EMP014,Manish Kumar,Sales,25,15,7,3
+EMP015,Ishita Das,Marketing,25,23,1,1
+EMP016,Gaurav Kulkarni,Engineering,25,22,2,1
+EMP017,Ritu Sen,Finance,25,24,0,1
+EMP018,Siddharth Jain,Operations,25,19,4,2
+EMP019,Kavita Pillai,Human Resources,25,25,0,0
+EMP020,Deepak Bhatia,Sales,25,18,5,2
+EMP021,Tanvi Deshmukh,Engineering,25,20,3,2
+EMP022,Amitabh Saxena,Operations,25,24,1,0
+EMP023,Meera Nambiar,Marketing,25,21,2,2
+EMP024,Suresh Pillai,Finance,25,23,1,1
+EMP025,Harsh Vardhan,Sales,25,22,2,1
